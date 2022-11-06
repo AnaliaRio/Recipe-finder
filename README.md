@@ -2,7 +2,7 @@
 
 ## Description 📄
 
-This project is a recipe finder app built using React and calling the REST API <a href="https://www.themealdb.com/api.php" target="_blank">TheMealDB</a>. This is app that every cuisine connoisseur wants to use! 👩‍🍳
+This project is a recipe finder app built using React and calling the REST API <a href="https://www.themealdb.com/api.php" target="_blank">TheMealDB</a>. This is the perfect app for every cuisine connoisseur out there! 👩‍🍳
 
 ## Preview 👁
 
